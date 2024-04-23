@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=abdef0&height=200&section=header&text=Welcome%20to%20Jiye's%20GitHub😊&fontSize=30)
 <h3>✨ Tech Stack ✨</h3>
 <br/>
 <img src="https://img.shields.io/badge/Java-BDBDBD?style=flat-square&logo=java&logoColor=white"/>
@@ -31,5 +31,5 @@
 <p>Blog : <a href="https://cr0c0.tistory.com/">https://cr0c0.tistory.com/</a></p>
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=abdef0)
 </div>
